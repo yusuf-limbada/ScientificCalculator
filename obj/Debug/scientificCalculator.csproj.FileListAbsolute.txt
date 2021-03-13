@@ -1,0 +1,10 @@
+G:\#2 Programing 2021\Applications\scientificCalculator\bin\Debug\scientificCalculator.exe.config
+G:\#2 Programing 2021\Applications\scientificCalculator\bin\Debug\scientificCalculator.exe
+G:\#2 Programing 2021\Applications\scientificCalculator\bin\Debug\scientificCalculator.pdb
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.csprojAssemblyReference.cache
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.Form1.resources
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.Properties.Resources.resources
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.csproj.GenerateResource.cache
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.csproj.CoreCompileInputs.cache
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.exe
+G:\#2 Programing 2021\Applications\scientificCalculator\obj\Debug\scientificCalculator.pdb
